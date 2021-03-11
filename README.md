@@ -1,1 +1,2 @@
 # Training
+Doplnil jsem pozdrav
